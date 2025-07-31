@@ -20,4 +20,4 @@ A simple, clean, and responsive banking user interface built using only **HTML5*
 - HTML5  
 - CSS3 (Flexbox for layout)
 
-## 🚀 Getting Started
+MADE BY RAGHAV RAINA 23BCS10741
